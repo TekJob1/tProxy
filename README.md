@@ -17,8 +17,10 @@
 ## Setup
 Use npm to setup tProxy
 ```
-npm i
-npm start
+git clone https://github.com/TekJob1/tProxy
+cd tProxy
+npm install
+node index.js
 ```
 or use yarn, yarn is better tbh
 ```
